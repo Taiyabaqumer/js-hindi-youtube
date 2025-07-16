@@ -31,5 +31,6 @@ const myfunction = function(){
     console.log("Hello world");
 }
 
-console.log(typeof scoreValue);
+console.log(typeof scoreValue)
 
+ // https://262.ecma-international.org/5.1/#sec-11.4.3
